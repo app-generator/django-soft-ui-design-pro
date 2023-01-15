@@ -46,7 +46,7 @@ INSTALLED_APPS = [
     "django.contrib.messages",
     "django.contrib.staticfiles",
 
-    'theme_soft_design',
+    'theme_soft_pro',
     "home",
 ]
 
